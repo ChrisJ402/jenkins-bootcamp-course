@@ -10,5 +10,5 @@ mkdir .ssh
 cd .ssh
 
 # generate ssh key, replace email with your own
-ssh-keygen -t rsa -b 4096 -C "you@example.com" -f aws-lightsail-jenkins-master.key
+ssh-keygen -t rsa -b 4096 -C "Christopher.John-CIC.UK@ibm.com" -f aws-lightsail-jenkins-master.key
 ```
